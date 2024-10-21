@@ -2,31 +2,24 @@ const { Client, GatewayIntentBits, EmbedBuilder } = require('discord.js');
 const axios = require('axios');
 require('dotenv').config();
 
+// Discord API credentials
 const token = process.env.DISCORD_BOT_TOKEN;
+const discordChannelId = process.env.DISCORD_CHANNEL_ID;
+
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent] });
+
+/* Check Twitch every minute to see if MoodyPlayzzz is live, and send chat in alerts channel if he is with an updating thumbnail */
 
 // Twitch API credentials
 const twitchClientId = process.env.TWITCH_CLIENT_ID;
 const twitchClientSecret = process.env.TWITCH_CLIENT_SECRET;
 const twitchUsername = process.env.TWITCH_USERNAME;
-const discordChannelId = process.env.DISCORD_CHANNEL_ID;
 
 let isLive = false;
 let liveMessage = null;
 
-client.once('ready', () => {
-    console.log('Bot is online!');
-    checkTwitchLiveStatus();
-    setInterval(checkTwitchLiveStatus, 60000); // Check every 60 seconds
-});
-
-client.on('messageCreate', message => {
-    if (message.content === '!ping') {
-        message.channel.send('Pong!');
-    }
-});
-
-async function checkTwitchLiveStatus() {
+// Check Twitch every minute to see if MP is live, and if so send a chat in the alerts channel with an updating thumbnail
+async function checkTwitchLiveStatus(client, discordChannelId) {
     try {
         const tokenResponse = await axios.post('https://id.twitch.tv/oauth2/token', null, {
             params: {
@@ -56,7 +49,8 @@ async function checkTwitchLiveStatus() {
 
         const isCurrentlyLive = streamResponse.data.data.length > 0;
 
-        if (isCurrentlyLive) {
+        if (isCurrentlyLive && !isLive) {
+            isLive = true;
             const streamData = streamResponse.data.data[0];
             const channel = await client.channels.fetch(discordChannelId);
 
@@ -71,11 +65,7 @@ async function checkTwitchLiveStatus() {
                 .setImage(thumbnailUrl)
                 .setColor('#9146FF');
 
-            if (liveMessage) {
-                await liveMessage.edit({ embeds: [embed] });
-            } else {
-                liveMessage = await channel.send({ embeds: [embed] });
-            }
+            liveMessage = await channel.send({ embeds: [embed] });
         } else if (!isCurrentlyLive && isLive) {
             isLive = false;
             console.log('Stream is not live.');
@@ -90,4 +80,4 @@ async function checkTwitchLiveStatus() {
     }
 }
 
-client.login(token);
+module.exports = { checkTwitchLiveStatus };

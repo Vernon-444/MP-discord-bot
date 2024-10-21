@@ -1,0 +1,50 @@
+2024-10-21T16:54:35.033Z [index.js] Starting media loop
+2024-10-21T16:55:18.665Z [index.js] Starting media loop
+2024-10-21T16:55:18.665Z [mediaLoop.js] Starting media loop
+2024-10-21T16:55:18.665Z [index.js] Chat reponses are now active
+2024-10-21T16:56:02.865Z [index.js] Starting media loop
+2024-10-21T16:56:02.866Z [mediaLoop.js] Starting media loop
+2024-10-21T16:56:02.895Z [index.js] Chat reponses are now active
+2024-10-21T16:56:03.456Z [index.js] Bot is online!
+2024-10-21T16:56:03.688Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T16:57:03.689Z [mediaLoop.js] Starting media loop
+2024-10-21T16:57:04.353Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T16:58:04.354Z [mediaLoop.js] Starting media loop
+2024-10-21T16:58:05.066Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T16:59:05.088Z [mediaLoop.js] Starting media loop
+2024-10-21T16:59:05.765Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T16:59:22.880Z [index.js] Starting media loop
+2024-10-21T16:59:22.880Z [mediaLoop.js] Starting media loop
+2024-10-21T16:59:22.912Z [index.js] Chat reponses are now active
+2024-10-21T16:59:23.383Z [index.js] Bot is online!
+2024-10-21T16:59:23.594Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:00:21.679Z [index.js] Starting media loop
+2024-10-21T17:00:21.679Z [mediaLoop.js] Starting media loop
+2024-10-21T17:00:21.708Z [index.js] Chat reponses are now active
+2024-10-21T17:00:22.168Z [index.js] Bot is online!
+2024-10-21T17:00:22.553Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:01:22.554Z [mediaLoop.js] Starting media loop
+2024-10-21T17:01:23.287Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:02:23.299Z [mediaLoop.js] Starting media loop
+2024-10-21T17:02:24.009Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:03:24.041Z [mediaLoop.js] Starting media loop
+2024-10-21T17:03:24.731Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:04:24.740Z [mediaLoop.js] Starting media loop
+2024-10-21T17:04:25.379Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:04:51.948Z [index.js] Starting media loop
+2024-10-21T17:04:51.948Z [mediaLoop.js] Starting media loop
+2024-10-21T17:04:51.982Z [index.js] Chat reponses are now active
+2024-10-21T17:04:52.525Z [index.js] Bot is online!
+2024-10-21T17:04:52.733Z [mediaLoop.js] Bot is online!
+2024-10-21T17:04:52.734Z [mediaLoop.js] Starting media loop
+2024-10-21T17:04:52.947Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:04:53.365Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:05:52.948Z [mediaLoop.js] Starting media loop
+2024-10-21T17:05:53.366Z [mediaLoop.js] Starting media loop
+2024-10-21T17:05:53.650Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:05:53.995Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:06:17.348Z [chatResponses.js] Ponged
+2024-10-21T17:06:53.651Z [mediaLoop.js] Starting media loop
+2024-10-21T17:06:53.996Z [mediaLoop.js] Starting media loop
+2024-10-21T17:06:54.297Z [mediaLoop.js] Media loop finished successfully
+2024-10-21T17:06:54.614Z [mediaLoop.js] Media loop finished successfully
