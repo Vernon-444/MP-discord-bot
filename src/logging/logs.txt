@@ -566,3 +566,124 @@
 2024-10-22T02:17:59.086Z [mediaLoop.js] Starting media loop
 2024-10-22T02:17:59.758Z [mediaLoop.js] Media loop finished successfully
 2024-10-22T02:17:59.770Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T15:50:52.732Z [index.js] Starting media loop
+2024-10-28T15:50:52.734Z [mediaLoop.js] Starting media loop
+2024-10-28T15:50:52.771Z [index.js] Chat responses are now active
+2024-10-28T15:50:52.771Z [index.js] Setting up new user verification
+2024-10-28T15:50:53.268Z [index.js] Bot is online!
+2024-10-28T15:50:53.280Z [mediaLoop.js] Bot is online!
+2024-10-28T15:50:53.280Z [mediaLoop.js] Starting media loop
+2024-10-28T15:50:53.551Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T15:50:53.885Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T15:50:58.278Z [newUserVerification.js] New user joined: vernon4442343
+2024-10-28T16:24:34.137Z [index.js] Starting media loop
+2024-10-28T16:24:34.139Z [mediaLoop.js] Starting media loop
+2024-10-28T16:24:34.177Z [index.js] Chat responses are now active
+2024-10-28T16:24:34.177Z [index.js] Setting up new user verification
+2024-10-28T16:24:34.742Z [mediaLoop.js] Bot is online!
+2024-10-28T16:24:34.742Z [mediaLoop.js] Starting media loop
+2024-10-28T16:24:34.912Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:24:35.351Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:24:39.644Z [index.js] Bot is online!
+2024-10-28T16:25:09.829Z [newUserVerification.js] New user joined: vernon4442343
+2024-10-28T16:26:05.168Z [index.js] Starting media loop
+2024-10-28T16:26:05.169Z [mediaLoop.js] Starting media loop
+2024-10-28T16:26:05.202Z [index.js] Chat responses are now active
+2024-10-28T16:26:05.203Z [index.js] Setting up new user verification
+2024-10-28T16:26:05.796Z [index.js] Bot is online!
+2024-10-28T16:26:05.960Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:26:06.223Z [mediaLoop.js] Bot is online!
+2024-10-28T16:26:06.223Z [mediaLoop.js] Starting media loop
+2024-10-28T16:26:06.824Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:26:33.463Z [newUserVerification.js] New user joined: vernon4442343
+2024-10-28T16:31:44.437Z [index.js] Starting media loop
+2024-10-28T16:31:44.439Z [mediaLoop.js] Starting media loop
+2024-10-28T16:31:44.475Z [index.js] Chat responses are now active
+2024-10-28T16:31:44.476Z [index.js] Setting up new user verification
+2024-10-28T16:31:44.897Z [index.js] Bot is online!
+2024-10-28T16:31:44.922Z [mediaLoop.js] Bot is online!
+2024-10-28T16:31:44.923Z [mediaLoop.js] Starting media loop
+2024-10-28T16:31:45.199Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:31:45.552Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:32:45.199Z [mediaLoop.js] Starting media loop
+2024-10-28T16:32:45.552Z [mediaLoop.js] Starting media loop
+2024-10-28T16:32:45.860Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:32:46.192Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:33:05.588Z [newUserVerification.js] New user joined: vernon4442343
+2024-10-28T16:33:23.575Z [newUserVerification.js] Granted "Gamer" role to vernon4442343
+2024-10-28T16:33:45.863Z [mediaLoop.js] Starting media loop
+2024-10-28T16:33:46.192Z [mediaLoop.js] Starting media loop
+2024-10-28T16:33:46.611Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:33:46.829Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:34:46.621Z [mediaLoop.js] Starting media loop
+2024-10-28T16:34:46.829Z [mediaLoop.js] Starting media loop
+2024-10-28T16:34:47.275Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:34:47.431Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:35:47.275Z [mediaLoop.js] Starting media loop
+2024-10-28T16:35:47.431Z [mediaLoop.js] Starting media loop
+2024-10-28T16:35:47.923Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:35:48.078Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:36:47.930Z [mediaLoop.js] Starting media loop
+2024-10-28T16:36:48.078Z [mediaLoop.js] Starting media loop
+2024-10-28T16:36:48.757Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:36:48.764Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:37:48.784Z [mediaLoop.js] Starting media loop
+2024-10-28T16:37:48.786Z [mediaLoop.js] Starting media loop
+2024-10-28T16:37:49.507Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:37:49.510Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:38:49.513Z [mediaLoop.js] Starting media loop
+2024-10-28T16:38:49.515Z [mediaLoop.js] Starting media loop
+2024-10-28T16:38:50.268Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:38:50.281Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:39:50.290Z [mediaLoop.js] Starting media loop
+2024-10-28T16:39:50.292Z [mediaLoop.js] Starting media loop
+2024-10-28T16:39:51.049Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:39:51.050Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:40:51.052Z [mediaLoop.js] Starting media loop
+2024-10-28T16:40:51.055Z [mediaLoop.js] Starting media loop
+2024-10-28T16:40:51.830Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:40:51.834Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:41:51.853Z [mediaLoop.js] Starting media loop
+2024-10-28T16:41:51.855Z [mediaLoop.js] Starting media loop
+2024-10-28T16:41:52.556Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:41:52.559Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:42:52.557Z [mediaLoop.js] Starting media loop
+2024-10-28T16:42:52.559Z [mediaLoop.js] Starting media loop
+2024-10-28T16:42:53.265Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:42:53.269Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:43:53.286Z [mediaLoop.js] Starting media loop
+2024-10-28T16:43:53.288Z [mediaLoop.js] Starting media loop
+2024-10-28T16:43:54.064Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:43:54.701Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:44:54.074Z [mediaLoop.js] Starting media loop
+2024-10-28T16:44:54.701Z [mediaLoop.js] Starting media loop
+2024-10-28T16:44:54.799Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:44:55.310Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:45:54.817Z [mediaLoop.js] Starting media loop
+2024-10-28T16:45:55.310Z [mediaLoop.js] Starting media loop
+2024-10-28T16:45:55.551Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:45:56.081Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:46:55.559Z [mediaLoop.js] Starting media loop
+2024-10-28T16:46:56.081Z [mediaLoop.js] Starting media loop
+2024-10-28T16:46:56.270Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:46:56.695Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:47:56.285Z [mediaLoop.js] Starting media loop
+2024-10-28T16:47:56.695Z [mediaLoop.js] Starting media loop
+2024-10-28T16:47:57.025Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:47:57.419Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:48:57.030Z [mediaLoop.js] Starting media loop
+2024-10-28T16:48:57.419Z [mediaLoop.js] Starting media loop
+2024-10-28T16:48:57.716Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:48:58.041Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:49:57.730Z [mediaLoop.js] Starting media loop
+2024-10-28T16:49:58.041Z [mediaLoop.js] Starting media loop
+2024-10-28T16:49:58.442Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:49:58.767Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:50:58.445Z [mediaLoop.js] Starting media loop
+2024-10-28T16:50:58.767Z [mediaLoop.js] Starting media loop
+2024-10-28T16:50:59.132Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:50:59.496Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:51:59.144Z [mediaLoop.js] Starting media loop
+2024-10-28T16:51:59.497Z [mediaLoop.js] Starting media loop
+2024-10-28T16:51:59.889Z [mediaLoop.js] Media loop finished successfully
+2024-10-28T16:52:00.125Z [mediaLoop.js] Media loop finished successfully

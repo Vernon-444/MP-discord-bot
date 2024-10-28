@@ -1,12 +1,13 @@
-const { Client, GatewayIntentBits, EmbedBuilder } = require('discord.js');
+const { Client, GatewayIntentBits } = require('discord.js');
 const axios = require('axios');
 const { log } = require('./logging/logging');
 const { mediaLoop } = require('./services/mediaLoop');
 const chatResponses = require('./commands/chatCommands/chatResponses');
+const { setupNewUserVerification } = require('./automation/newUsers/newUserVerification');
 require('dotenv').config();
 
 const token = process.env.DISCORD_BOT_TOKEN;
-const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent] });
+const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent, GatewayIntentBits.GuildMembers, GatewayIntentBits.DirectMessages], partials: ['CHANNEL'] });
 
 client.once('ready', () => {
     console.log('Bot is online!');
@@ -17,8 +18,12 @@ client.once('ready', () => {
 log('index.js', 'Starting media loop');
 mediaLoop();
 
-// handle chatResponses
-log('index.js', 'Chat reponses are now active');
+// Handle chat responses
+log('index.js', 'Chat responses are now active');
 chatResponses(client);
+
+// Setup new user verification
+log('index.js', 'Setting up new user verification');
+setupNewUserVerification(client);
 
 client.login(token);
