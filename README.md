@@ -38,15 +38,15 @@ This is a discord bot for the MoodyPlayzzz Youtube and Discord Channel.
 
 * Alerts users when MoodyPlayz has gone live on Twitch (check it out)
 * Will respond enthusiastically with "Pong!" when you use the command `!ping` in a channel the bot has access to.
+* New users will be greeted and sent a captcha to complete. Upon success the user is granted a new role which would allow more access to the channel.
 
 
 ## Upcoming Features
 
 * Youtube / Podcast / other future media posts and updates
-* Track / Manage user levels
+* Track / Manage user levels (doesn't really mean anything, really just shows frequency of user engagement)
 * Support tickets: report problems / issues / users
-* New users verification, role management
-* User Management
+* Advanced role management (roles, banning, timeout, channel access, permissions, etc)
 * Smaller temp voice chats for spontaneous groups (allotted max room sizes based on game or input by users), started by Game Chat room. (set time limit on them)
 * Requests Queue (sort by users first, then users submitted quests and dated)
 
